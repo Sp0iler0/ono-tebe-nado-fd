@@ -49,6 +49,7 @@
     width: 238px;
     font-size: 18px;
     line-height: 1.35;
+    font-style: normal;
   }
   
   .text-underline {
@@ -297,6 +298,10 @@
     font-size: 18px;
     line-height: 1.2;
     list-style-type: none;
+  }
+  
+  .footer__link-active {
+    text-decoration: none;
   }
   
   .footer__social-list {
